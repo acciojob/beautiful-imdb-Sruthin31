@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.moviePic{
+	height:45px;
+	widht:30px;
+	opacity:5;
+}
+.movieDetail{
+	position:relative;
+	top:25px;
+	width:15px;
+	text-align:center;
+	font-size:25px;
+	
+	
+}
